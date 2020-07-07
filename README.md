@@ -1,5 +1,14 @@
-# Vimal kumar
-Hi,:wave: I'm Vimal kumar Web designer and devloper working on [@Letskhabar :octocat:](https://github.com/letskhabar) to support open source. Student at IIIT Ranchi :india:
+# Vimal kumar 
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    Hi,:wave: I'm Vimal kumar Web designer and devloper working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> to support open source. Student at IIIT Ranchi :india:
+  </samp>
+</p>
+
 
 ## My skills: :rocket:
 - Flutter &nbsp; &nbsp; &nbsp;▓▓▓▓▓▓▓▓▓▓▓▓░░░
